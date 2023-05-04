@@ -5,7 +5,7 @@ import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
 
 const name = 'Your Name';
-export const siteTitle = 'Next.js Sample Website';
+export const siteTitle = "J'aide les PME et les entrepreurs à construire des site internet qui attire";
 
 export default function Layout({ children, home }) {
     return (
